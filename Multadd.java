@@ -14,7 +14,6 @@ public class Multadd {
 	}
 	
 	public static void main(String[] arg) {
-		
 		System.out.println(expSum(10));
 		System.out.println(multTrig(Math.PI/4, Math.PI/4));
 		System.out.println(multLog(10, 20));
